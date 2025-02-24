@@ -1,0 +1,99 @@
+{
+  "categories": [
+    {
+      "name": "Electronics",
+      "children": [
+        {
+          "name": "Smartphones",
+          "children": [
+            {
+              "name": "Accessories",
+              "children": [
+                {"name": "SIM Cards"}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fashion",
+      "children":[
+        {
+          "name":"Umbrella",
+          "children": [
+            {
+              "name":"Manual"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Office Supplies",
+      "children": [
+        {
+          "name": "Writing Instruments",
+          "children":[
+            {
+              "name": "Pencils"
+            },
+            {
+              "name": "Ball Pen"
+            }
+          ]
+        },
+        {
+          "name":"Erasers",
+          "children": [
+            {"name":"Correction Tape"},
+            {"name":"Pencil Eraser"}
+          ]
+        },
+        {
+          "name":"Writing Accessories",
+          "children":[
+            {"name":"Pencil Sharpener"}
+          ]
+        },
+        {
+          "name": "Office Accessories",
+          "children":[
+            {"name":"Packaging"}
+          ]
+        },
+        {
+          "name":"Cutting Tools",
+          "children":[
+            {"name":"Scissors"}
+          ]
+        },
+        {
+          "name":"Filling Supplies",
+          "children":[
+            {"name":"Folders"}
+          ]
+        },
+        {
+          "name":"Paper",
+          "children":[
+            {"name":"Bond Paper"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Art Supplies",
+      "children":[
+        {
+          "name": "Drawing Tools",
+          "children": [
+            {
+              "name": "Crayons" 
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
